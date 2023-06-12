@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm İsa HATİPOĞLU</h1>
-<h3 align="center">I'm Electrical Electronics Engineering.BackEnd and FrontEnd Developer.</h3>
+<h3 align="center">I'm Electrical Electronics Engineering. I enjoy working with software.</br>
+ I develop applications on BackEnd and Frontend.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
